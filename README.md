@@ -2,9 +2,9 @@
 
 ## Le défi
 
-Votre défi est de créer une liste de produits incluant un panier fonctionnel et de la rendre aussi proche du design que possible.
+Votre défi est de créer une liste de produits incluant un panier fonctionnel et de la rendre aussi proche du design que possible. Vous pouvez consulter le design dans le dossier `design`.
 
-Nous vous fournissons les données des produits dans un fichier local `data.json`. Vous pouvez donc utiliser ce fichier pour générer l'interface utilisateur dynamiquement si vous le souhaitez.
+**BONUS:** Nous vous fournissons les données des produits dans un fichier local `data.json`. Vous pouvez donc utiliser ce fichier pour générer l'interface utilisateur dynamiquement si vous le souhaitez.
 
 Les utilisateurs doivent pouvoir :
 
@@ -20,5 +20,6 @@ Tous les éléments nécessaires pour ce projet se trouvent dans le dossier `/as
 Nous incluons également des fichiers de polices variables et statiques pour les polices requises pour ce projet. Vous pouvez choisir de lier à Google Fonts ou d'utiliser les fichiers de polices locaux pour héberger les polices vous-même. Notez que nous avons supprimé les fichiers de polices statiques pour les poids de police qui ne sont pas nécessaires pour ce projet.
 
 Il y a également un fichier `style-guide.md` contenant les informations dont vous aurez besoin, telles que la palette de couleurs et les polices.
+
 
 **Amusez-vous en construisant!** 🚀
