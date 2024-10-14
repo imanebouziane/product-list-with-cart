@@ -1,4 +1,4 @@
-# Liste de produits avec panier
+# Liste de produits avec panier 🛒
 
 ## Le défi
 
