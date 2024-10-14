@@ -2,7 +2,7 @@
 
 ## Le défi
 
-Votre défi est de créer une liste de produits incluant un panier fonctionnel et de la rendre aussi proche du design que possible. Vous pouvez consulter le design dans le dossier `design`.
+Votre défi est de créer une liste de produits incluant un panier fonctionnel et de la rendre aussi proche du design que possible. Vous pouvez consulter le design dans le dossier `/design`.
 
 **BONUS:** Nous vous fournissons les données des produits dans un fichier local `data.json`. Vous pouvez donc utiliser ce fichier pour générer l'interface utilisateur dynamiquement si vous le souhaitez.
 
